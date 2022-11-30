@@ -1,32 +1,29 @@
 [
     {
-        "name": "name",
-        "img": "img",
-        "details": "details"
+        "name": "IPhone",
+        "img": "https://i.ibb.co/QrtB90p/apple-iphone-14-8069.webp",
+        "price": "20",
+        "details": "fghdfh",
+        "brand": "apple",
+        "used": "4",
+        "author": "Angshik"
     },
     {
-        "name": "name",
-        "img": "img",
-        "details": "details"
+        "name": "Samsung",
+        "img": "https://i.ibb.co/8b9BRrN/1200x-1.jpg",
+        "price": "30",
+        "details": "ghgfhfghfg",
+        "brand": "Samsung",
+        "used": "3",
+        "author": "Rongin"
     },
     {
-        "name": "name",
-        "img": "img",
-        "details": "details"
-    },
-    {
-        "name": "name",
-        "img": "img",
-        "details": "details"
-    },
-    {
-        "name": "name",
-        "img": "img",
-        "details": "details"
-    },
-    {
-        "name": "name",
-        "img": "img",
-        "details": "details"
+        "name": "One Plus",
+        "img": "https://i.ibb.co/SBwXx6j/download-1.jpg",
+        "price": "40",
+        "details": "dhgfhfghsfghg",
+        "brand": "One Plus",
+        "used": "2",
+        "author": "Shuvo"
     }
 ]
