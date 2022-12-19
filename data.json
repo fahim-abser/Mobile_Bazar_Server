@@ -1,29 +1,86 @@
 [
     {
-        "name": "IPhone",
-        "img": "https://i.ibb.co/QrtB90p/apple-iphone-14-8069.webp",
-        "price": "20",
-        "details": "fghdfh",
+        "name": "IPhone X",
+        "category_id":"1",
+        "img": "//i.ibb.co/TPYfbH2/apple-iphone-x-new-2.jpg",
+        "newPrice": "55000",
+        "price": "30000",
+        "details": "Released 2017, November 03 174g, 7.7mm thickness iOS 11.1.1, up to iOS…",
         "brand": "apple",
-        "used": "4",
-        "author": "Angshik"
+        "used": "8",
+        "author": "Fahim",
+        "location": "Dhaka",
+        "Condition": "Good",
+        "Purchase year": "2022"
     },
-    {
-        "name": "Samsung",
-        "img": "https://i.ibb.co/8b9BRrN/1200x-1.jpg",
-        "price": "30",
-        "details": "ghgfhfghfg",
-        "brand": "Samsung",
-        "used": "3",
-        "author": "Rongin"
-    },
-    {
-        "name": "One Plus",
-        "img": "https://i.ibb.co/SBwXx6j/download-1.jpg",
-        "price": "40",
-        "details": "dhgfhfghsfghg",
+{
+        "name": "One Plus 7",
+        "category_id":"3",
+        "img": "i.ibb.co/Z8dv3KK/download.jpg",
+        "newPrice": "45000",
+        "price": "27000",
+        "details": "OnePlus 7 Android smartphone. Announced May 2019. Features 6.41″ display, Snapdragon 855 chipset,3700 mAh battery, 256 GB storage, 12 GB RAM",
         "brand": "One Plus",
-        "used": "2",
-        "author": "Shuvo"
+        "used": "6",
+        "author": "Shuvo",
+        "location": "Rangpur",
+        "Condition": "Good",
+        "Purchase year": "2022"
+    },
+   {
+        "name": "Samsung S22",
+        "category_id":"2",
+        "img": "https: //i.ibb.co/80rpzNn/download-1.jpg",
+        "newPrice": "25000",
+        "price": "17000",
+        "details": "Released 2017, November 03 174g,7.7mm thickness iOS 11.1.1, up to iOS…",
+        "brand": "Samsung",
+        "used": "4",
+        "author": "Saib",
+        "location": "Dinajpur",
+        "Condition": "Good",
+        "Purchase year": "2022"
+    },
+       {
+        "name": "IPhone 11",
+        "category_id":"1",
+        "img": "//i.ibb.co/wZtmVLh/Apple-i-Phone-11-1-500x500.webp",
+        "newPrice": "52000",
+        "price": "39000",
+        "details": "Released 2019, September 20 194g, 8.3mm thickness iOS 13, up to iOS 16.1. 64GB/128GB/256GBstorage, no card slot; 34% 13, 926,851 hits",
+        "brand": "apple",
+        "used": "11",
+        "author": "Tahsin",
+        "location": "Cumilla",
+        "Condition": "Good",
+        "Purchase year": "2022"
+    },
+           {
+        "name": "One Plus 10 Pro",
+        "category_id":"3",
+        "img": "https: //i.ibb.co/NYytTSy/One-Plus-10-Pro-vs-One-Plus-9-Pro-with-camera-modules.webp",
+        "newPrice": "30000",
+        "price": "24000",
+        "details": "OnePlus 10 Pro Android smartphone. Announced Jan 2022. Features 6.7″ display, Snapdragon 8 Gen 1 chipset, 5000 mAh battery, 512 GB storage, 12 GB RAM",
+        "brand": "One Plus",
+        "used": "18",
+        "author": "Uttam",
+        "location": "Vola",
+        "Condition": "Good",
+        "Purchase year": "2021"
+    },
+               {
+        "name": "Samsung a52",
+        "category_id":"2",
+        "img": " //i.ibb.co/nbftq8L/Samsung-Galaxy-A52-image.jpg",
+        "newPrice": "35000",
+        "price": "22000",
+        "details": "Samsung Galaxy A52 ; Size,6.5 inches, 101.0 cm2 (~84.1% screen-to-body ratio) ; Resolution, 1080 x 2400 pixels, 20: 9 ratio (~407 ppi density) ",
+        "brand": "Samsung",
+        "used": "9",
+        "author": "Sakib",
+        "location": "Khulna",
+        "Condition": "Fair",
+        "Purchase year": "2021"
     }
 ]
